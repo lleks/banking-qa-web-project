@@ -1,1 +1,1 @@
-# QA_Banking-Project
+# QA Banking Project
